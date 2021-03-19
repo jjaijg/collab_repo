@@ -3,9 +3,6 @@
 Repo to practice project management with git
 <<<<<<< HEAD
 **Nice work**
-=======
-=======
-**good work**
 
 ## New update
 
