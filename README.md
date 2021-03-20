@@ -1,8 +1,8 @@
 # collab_repo
 
 Repo to practice project management with git
-=======
-**good work**
+
+**Nice work**
 
 ## New update
 
@@ -15,3 +15,4 @@ used `git push origin jaiupdate` to push changes to remote
 
 Repo updated by Jai - 19/03/2021
 
+>>>>>>> 936448794b19aed0d45248052a57488fe2721c2b
